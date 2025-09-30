@@ -8,7 +8,7 @@ Presentación sobre Pytest para testing automático en Python.
 - **Bellini, Esteban**
 
 ## 📚 Diapositivas
-
+https://docs.google.com/presentation/d/1IYfviL1v0aJrSaPJw4ByTn1-z97Z1gTdATngpfwLevY/edit?usp=sharing
 
 ---
 
